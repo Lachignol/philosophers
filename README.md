@@ -121,14 +121,6 @@ Le programme gère et affiche les erreurs suivantes :
 
 ---
 
-## 📌 Remarques
-
-- Le programme doit être précis à quelques millisecondes près.
-- Les messages affichés doivent être cohérents et ne pas se chevaucher.
-- Aucun comportement indéfini ne doit être toléré.
-
----
-
 ## ✍️ Exemple de sortie
 
 ```
@@ -143,12 +135,3 @@ Le programme gère et affiche les erreurs suivantes :
 ...
 ```
 
----
-
-## 📚 Ressources utiles
-
-- [Man pthreads](https://man7.org/linux/man-pages/man7/pthreads.7.html)
-- [Problème des philosophes sur Wikipédia](https://fr.wikipedia.org/wiki/Probl%C3%A8me_des_philosophes)
-- Documentation 42 sur les threads et mutex
-
----
